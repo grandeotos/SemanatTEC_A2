@@ -1,0 +1,30 @@
+commit c6a6cfaa015df3410c31c52d318a3211171922ec
+Merge: b7c4c06 56afe08
+Author: SnipperPlayer <galeana2002@hotmail.com>
+Date:   Thu May 6 14:24:38 2021 -0500
+
+    Merge branch 'main' of https://github.com/grandeotos/SemanatTEC_A2
+
+commit b7c4c0695d2c6d8011f929f978ce73e7611db5e6
+Author: SnipperPlayer <galeana2002@hotmail.com>
+Date:   Thu May 6 14:23:09 2021 -0500
+
+    colores
+
+commit 56afe085ccc8e3ecc97239e87eef28040dc8e739
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 13:49:46 2021 -0500
+
+    Añadido patron aleatorio de comida
+
+commit 4ed992f4455b875e3e36636a3f9ca7c2f4de2709
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 13:24:51 2021 -0500
+
+    First commit
+
+commit 26c9f7da5512fcd372e55f55b84c1a03c950983f
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 13:19:31 2021 -0500
+
+    Initial commit
